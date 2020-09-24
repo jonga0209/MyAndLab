@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyAndLab</string>
+    <string name="btnFourbtn1">FOURBUTTON(P103)</string>
+    <string name="btnFourbtn2">FOURBUTTON(P103리니얼레이아웃)</string>
+    <string name="goHome">내일 집간다</string>
+    <string name="goMa">마뇨 떡볶이</string>
+    <string name="goCh">치킨 뿌링클</string>
+    <string name="goBack">돌아가기</string>
+</resources>
