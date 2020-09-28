@@ -44,12 +44,5 @@ class Homework1Activity : AppCompatActivity() {
                 hImgeview.setImageResource(R.drawable.pie)
             }
         }
-        
-//        hCheckOreo.setOnClickListener {
-//            hImgeview.setImageResource(R.drawable.oreo)
-//        }
-//        hCheckOreo.setOnClickListener {
-//            hImgeview.setImageResource(R.drawable.pie)
-//        }
     }
 }
